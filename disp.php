@@ -1,6 +1,7 @@
+<!-- This file collects json data sent from  -->
 $(document).ready(function(){
 	$.ajax({
-		url: "http://localhost/chartjs/data.php",
+		url: "http://localhost/data.php",
 		method: "GET",
 		success: function(data) {
 			console.log(data);

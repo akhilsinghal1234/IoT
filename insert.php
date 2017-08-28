@@ -1,3 +1,5 @@
+<!-- This file displays all the data present in the database(present on an online web hosting service) in a tabular form and a button to display graph(by default Bar Graph) -->
+
 <html>
 <style>
 		form
